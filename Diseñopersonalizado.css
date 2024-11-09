@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+   body {
+    font-family: 'Open Sans' , sans-serif;
+    }
+   
+    .Contenedor {
+        background: #667eea;
+        text-align: center;
+    }
+
+    .Contenedor p{
+       max-width: 80%;
+       height: 100px;
+       text-align: center;
+       margin-left: 90px;
+    }
+ 
+   
+    
